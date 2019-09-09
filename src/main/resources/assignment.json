@@ -1,0 +1,244 @@
+{"entityPrefix": "assignment", "assignment_collection": [
+{
+  "access": {
+  },
+  "allPurposeItemText": null,
+  "attachments": [
+    {
+      "name": "cicvact1.docx",
+      "url": "https:\/\/campusvirtual.unir.net\/access\/content\/attachment\/PER740-201-000\/Tareas\/3db9ab48-4e87-41fb-b75a-0b91dcb77c17\/cicvact1.docx"
+    }
+  ],
+  "authorLastModified": "466f390a-da67-417a-91f6-82d9561b8c71",
+  "authors": [],
+  "closeTime": {
+    "display": "24-oct-2018 23:55",
+    "time": 1540418100000
+  },
+  "closeTimeString": "24-oct-2018 23:55",
+  "content": null,
+  "contentReference": "\/assignment\/c\/PER740-201-000\/93048a08-b82b-4ab6-84eb-adf58fbc8caf",
+  "context": "PER740-201-000",
+  "creator": "82577a1b-679b-41f2-b60e-11f954180ab7",
+  "dropDeadTime": {
+    "display": "24-oct-2018 23:55",
+    "time": 1540418100000
+  },
+  "dropDeadTimeString": "24-oct-2018 23:55",
+  "dueTime": {
+    "display": "24-oct-2018 23:55",
+    "time": 1540418100000
+  },
+  "dueTimeString": "24-oct-2018 23:55",
+  "gradeScale": "No hay calificación",
+  "gradeScaleMaxPoints": null,
+  "gradebookItemId": null,
+  "gradebookItemName": null,
+  "groups": [],
+  "id": "3d536abe-3d61-4281-9a7a-b36474600a9f",
+  "instructions": "<p style=\"color: rgb(166,166,166);font-size: 1.2em;font-weight: bold;\">La zona de confort<\/p>  <p>Te proponemos en esta actividad que veas el siguiente vídeo:<\/p>  <p style=\"text-align: center;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/RSUykLfEmVE?rel=0\" width=\"560\"><\/iframe><\/p>  <p>¿Conocías lo que se llama «zona de confort»? Como has visto, la zona de confort es el entorno que conoces y dominas. Es importante salir de esa zona para aprender, experimentar y mejorar. Considera esta experiencia en UNIR como una excursión fuera de tu entorno y que vas a aprender cosas nuevas y adquirir herramientas para tener éxito en tus proyectos.<\/p>  <p>Piensa qué es lo que te ha llevado a emprender esta aventura en UNIR, cuáles son tus apoyos para lograr el éxito y qué herramientas puedes utilizar: tanto las que ya tienes en tu vida (tu esfuerzo, tu familia, etc.) como las que te ofrecemos en UNIR. Piensa también cuál es tu objetivo con respecto a la universidad y para qué quieres lograrlo.<\/p>  <p>El objetivo de esta actividad es que reflexiones sobre aspectos importantes que quizá no te hayas planteado y que seguro te van a motivar y a ayudar en el camino. Además de que te familiarices con la herramienta «Actividades».<\/p>  <p>Se valorará la relación de la reflexión con los elementos utilizados en el vídeo propuesto, y también que apliques el vocabulario con criterio y corrección.  <\/p>  <p>Puedes escribir estos pensamientos a continuación en este documento y enviarlo desde «Actividades», en el menú lateral del aula virtual. Es importante que envíes esta actividad para practicar los envíos, puesto que es una herramienta que vas a utilizar de forma frecuente.   <\/p>",
+  "modelAnswerText": null,
+  "openTime": {
+    "display": "11-nov-2014 0:00",
+    "time": 1415660400000
+  },
+  "openTimeString": "11-nov-2014 0:00",
+  "position_order": 0,
+  "privateNoteText": null,
+  "section": "",
+  "status": "Cerrado",
+  "submissionType": "Editor y adjuntos",
+  "timeCreated": {
+    "display": "27-sep-2018 17:33",
+    "time": 1538062384163
+  },
+  "timeLastModified": {
+    "display": "23-oct-2018 19:01",
+    "time": 1540314081686
+  },
+  "title": "La zona de confort",
+  "allowResubmission": false,
+  "draft": false,
+  "entityReference": "\/assignment\/3d536abe-3d61-4281-9a7a-b36474600a9f",
+  "entityURL": "https:\/\/campusvirtual.unir.net\/direct\/assignment\/3d536abe-3d61-4281-9a7a-b36474600a9f",
+  "entityId": "3d536abe-3d61-4281-9a7a-b36474600a9f",
+  "entityTitle": "La zona de confort"
+},{
+  "access": {
+  },
+  "allPurposeItemText": null,
+  "attachments": [],
+  "authorLastModified": "95225126-faef-4e1e-bc3c-8e978438a00f",
+  "authors": [],
+  "closeTime": {
+    "display": "18-jul-2019 23:55",
+    "time": 1563486900000
+  },
+  "closeTimeString": "18-jul-2019 23:55",
+  "content": null,
+  "contentReference": "\/assignment\/c\/PER740-201-3458\/e90f8e5d-2b12-42b7-87bb-0f4fd04837ac",
+  "context": "PER740-201-3458",
+  "creator": "95225126-faef-4e1e-bc3c-8e978438a00f",
+  "dropDeadTime": {
+    "display": "18-jul-2019 23:55",
+    "time": 1563486900000
+  },
+  "dropDeadTimeString": "18-jul-2019 23:55",
+  "dueTime": {
+    "display": "18-jul-2019 23:55",
+    "time": 1563486900000
+  },
+  "dueTimeString": "18-jul-2019 23:55",
+  "gradeScale": "No hay calificación",
+  "gradeScaleMaxPoints": null,
+  "gradebookItemId": null,
+  "gradebookItemName": null,
+  "groups": [],
+  "id": "9b41490b-1368-403b-b1fe-6b6511c3d635",
+  "instructions": "<p>Únicamente puedes realizar la entrega del TFG si dispones de la autorización de tu director\/a en esta convocatoria ordinaria.<\/p>",
+  "modelAnswerText": null,
+  "openTime": {
+    "display": "20-dic-2018 0:00",
+    "time": 1545260400000
+  },
+  "openTimeString": "20-dic-2018 0:00",
+  "position_order": 4,
+  "privateNoteText": null,
+  "section": "",
+  "status": "Cerrado",
+  "submissionType": "Tipo de envío desconocido",
+  "timeCreated": {
+    "display": "14-dic-2018 13:15",
+    "time": 1544789732061
+  },
+  "timeLastModified": {
+    "display": "14-dic-2018 13:16",
+    "time": 1544789807251
+  },
+  "title": "Depósito de Trabajo Fin de Grado",
+  "allowResubmission": false,
+  "draft": false,
+  "entityReference": "\/assignment\/9b41490b-1368-403b-b1fe-6b6511c3d635",
+  "entityURL": "https:\/\/campusvirtual.unir.net\/direct\/assignment\/9b41490b-1368-403b-b1fe-6b6511c3d635",
+  "entityId": "9b41490b-1368-403b-b1fe-6b6511c3d635",
+  "entityTitle": "Depósito de Trabajo Fin de Grado"
+},{
+  "access": {
+  },
+  "allPurposeItemText": null,
+  "attachments": [],
+  "authorLastModified": "61b93967-f9ba-4ef1-89ef-5e702c3b53bd",
+  "authors": [],
+  "closeTime": {
+    "display": "25-abr-2019 23:55",
+    "time": 1556229300000
+  },
+  "closeTimeString": "25-abr-2019 23:55",
+  "content": null,
+  "contentReference": "\/assignment\/c\/PER740-201-3458\/eff73af5-47fd-4f73-a53e-a978f6c610fe",
+  "context": "PER740-201-3458",
+  "creator": "95225126-faef-4e1e-bc3c-8e978438a00f",
+  "dropDeadTime": {
+    "display": "25-abr-2019 23:55",
+    "time": 1556229300000
+  },
+  "dropDeadTimeString": "25-abr-2019 23:55",
+  "dueTime": {
+    "display": "25-abr-2019 23:55",
+    "time": 1556229300000
+  },
+  "dueTimeString": "25-abr-2019 23:55",
+  "gradeScale": "Apto \/ No apto",
+  "gradeScaleMaxPoints": null,
+  "gradebookItemId": null,
+  "gradebookItemName": null,
+  "groups": [],
+  "id": "9d0e955a-98fc-4b42-9e31-a41dd710f86b",
+  "instructions": "<p>En esta entrega se deben incluir al menos tres elementos:<\/p>  <ol>  <li>Una descripción de alto nivel de la arquitectura del sistema a desarrollar, indicando los módulos principales y las tecnologías empleadas en cada uno.<br \/>   <\/li>  <li>Un primer prototipo tecnológico que ponga en práctica las distintas tecnologías que se van a emplear en el proyecto, para asegurar la viabilidad del mismo.<br \/>   <\/li>  <li>Un esquema de los capítulos que va a contener la memoria descriptiva. Es normal y esperable que todos estos elementos sigan experimentando cambios a lo largo del proyecto.<\/li> <\/ol>",
+  "modelAnswerText": null,
+  "openTime": {
+    "display": "20-dic-2018 0:00",
+    "time": 1545260400000
+  },
+  "openTimeString": "20-dic-2018 0:00",
+  "position_order": 2,
+  "privateNoteText": null,
+  "section": "",
+  "status": "Cerrado",
+  "submissionType": "Editor y adjuntos",
+  "timeCreated": {
+    "display": "14-dic-2018 13:15",
+    "time": 1544789732008
+  },
+  "timeLastModified": {
+    "display": "01-mar-2019 11:52",
+    "time": 1551437554167
+  },
+  "title": "Arquitectura, prototipo tecnológico y estructura de la memoria",
+  "allowResubmission": false,
+  "draft": false,
+  "entityReference": "\/assignment\/9d0e955a-98fc-4b42-9e31-a41dd710f86b",
+  "entityURL": "https:\/\/campusvirtual.unir.net\/direct\/assignment\/9d0e955a-98fc-4b42-9e31-a41dd710f86b",
+  "entityId": "9d0e955a-98fc-4b42-9e31-a41dd710f86b",
+  "entityTitle": "Arquitectura, prototipo tecnológico y estructura de la memoria"
+},{
+  "access": {
+  },
+  "allPurposeItemText": null,
+  "attachments": [],
+  "authorLastModified": "95225126-faef-4e1e-bc3c-8e978438a00f",
+  "authors": [],
+  "closeTime": {
+    "display": "12-sep-2019 23:55",
+    "time": 1568325300000
+  },
+  "closeTimeString": "12-sep-2019 23:55",
+  "content": null,
+  "contentReference": "\/assignment\/c\/PER740-201-3458\/fc3089bc-0c4e-4917-a516-4373c5157111",
+  "context": "PER740-201-3458",
+  "creator": "95225126-faef-4e1e-bc3c-8e978438a00f",
+  "dropDeadTime": {
+    "display": "12-sep-2019 23:55",
+    "time": 1568325300000
+  },
+  "dropDeadTimeString": "12-sep-2019 23:55",
+  "dueTime": {
+    "display": "12-sep-2019 23:55",
+    "time": 1568325300000
+  },
+  "dueTimeString": "12-sep-2019 23:55",
+  "gradeScale": "No hay calificación",
+  "gradeScaleMaxPoints": null,
+  "gradebookItemId": null,
+  "gradebookItemName": null,
+  "groups": [],
+  "id": "c8ee6551-b0af-48dd-b3d2-79e5ac92e0de",
+  "instructions": "<p>Únicamente puedes realizar la entrega del TFG si dispones de la autorización de tu director\/a en esta convocatoria extraordinaria.<\/p>",
+  "modelAnswerText": null,
+  "openTime": {
+    "display": "19-jul-2019 0:00",
+    "time": 1563487200000
+  },
+  "openTimeString": "19-jul-2019 0:00",
+  "position_order": 5,
+  "privateNoteText": null,
+  "section": "",
+  "status": "Abierto",
+  "submissionType": "Tipo de envío desconocido",
+  "timeCreated": {
+    "display": "14-dic-2018 13:15",
+    "time": 1544789732114
+  },
+  "timeLastModified": {
+    "display": "14-dic-2018 13:16",
+    "time": 1544789816965
+  },
+  "title": "Depósito de Trabajo Final de Grado - Convocatoria extraordinaria",
+  "allowResubmission": false,
+  "draft": false,
+  "entityReference": "\/assignment\/c8ee6551-b0af-48dd-b3d2-79e5ac92e0de",
+  "entityURL": "https:\/\/campusvirtual.unir.net\/direct\/assignment\/c8ee6551-b0af-48dd-b3d2-79e5ac92e0de",
+  "entityId": "c8ee6551-b0af-48dd-b3d2-79e5ac92e0de",
+  "entityTitle": "Depósito de Trabajo Final de Grado - Convocatoria extraordinaria"
+}
+]}
