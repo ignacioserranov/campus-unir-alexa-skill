@@ -12,32 +12,18 @@
                     ]
                 },
                 {
-                    "name": "AMAZON.HelpIntent",
-                    "samples": [
-                        "no sé que hacer",
-                        "me puedes ayudar",
-                        "necesito ayuda",
-                        "ayuda"
-                    ]
-                },
-                {
                     "name": "AMAZON.StopIntent",
                     "samples": [
+                        "exit",
+                        "finalizar",
+                        "apagar",
+                        "salir de campus unir",
                         "salir",
+                        "cerrar",
                         "stop",
                         "cállate",
                         "para",
                         "parar"
-                    ]
-                },
-                {
-                    "name": "HelloWorldIntent",
-                    "slots": [],
-                    "samples": [
-                        "hola",
-                        "hello",
-                        "how are you",
-                        "hi"
                     ]
                 },
                 {
@@ -77,11 +63,9 @@
                     "samples": [
                         "dime mis eventos del calendario",
                         "dime mis eventos",
-                        "que eventos tengo esta semana",
                         "que eventos hay en el calendario",
                         "cuales son mis eventos",
                         "dame el calendario de eventos",
-                        "cual es el calendario de eventos",
                         "cual es mi calendario",
                         "proximos eventos",
                         "Dime mi calendario"
@@ -91,13 +75,23 @@
                     "name": "AssignmentIntent",
                     "slots": [],
                     "samples": [
+                        "dime mis tareas pendientes",
                         "tareas pendientes",
                         "dame mis próximas tareas",
                         "listado de tareas abiertas",
                         "listado de tareas pendientes",
                         "cuales son mis tareas pendientes",
-                        "dime mis tareas",
-                        "dame las tareas pendientes"
+                        "dime mis tareas"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "que puedo hacer",
+                        "no sé que hacer",
+                        "me puedes ayudar",
+                        "necesito ayuda",
+                        "ayuda"
                     ]
                 }
             ],
